@@ -14,8 +14,9 @@ Education
 * B.S. in Computer Science, Mathematics, and Economics, with a minor in Physics, University of Wisconsin - Madison, 2020
 * Ph.D in Computer Science, Johns Hopkins University, 2027 (expected)
 
-Work experience
+Research experience
 ======
+<!------
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
@@ -56,3 +57,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+------>
