@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science, Mathematics, and Economics, with a minor in Physics, University of Wisconsin - Madison, 2020
-* Ph.D in Computer Science, Johns Hopkins University, 2027 (expected)
+* Ph.D. in Computer Science, Johns Hopkins University, 2027 (expected)
 
 Research experience
 ======
