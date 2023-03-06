@@ -18,3 +18,12 @@ Previously, I received my BS in Computer Science, Mathematics, and Economics, wi
 
 Recent News
 ==========
+
+
+
+Publications
+=========
+
+- [Towards Diffeomorphism Invariant Convolution Neural Networks](http://pkan2.github.io/files/diffeomorphism_invariant_cnn_DiffCVML-6.pdf)
+
+**Pengyu Kan**, Rudrasis Chakraborty, Vishnu Suresh Lokhande, Vikas Singh.<i> Differential Geometry in Computer Vision and Machine Learning workshop. <i> 2021.

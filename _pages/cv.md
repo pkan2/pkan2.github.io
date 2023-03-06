@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[link](http://pkan2.github.io/files/CV_Pengyu_Kan.pdf)
+[pdf version](http://pkan2.github.io/files/CV_Pengyu_Kan.pdf)
 
 Education
 ======
