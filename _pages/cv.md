@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, Mathematics, and Economics, with a minor in Physics, University of Wisconsin - Madison, 2020
+* Ph.D in Computer Science, Johns Hopkins University, 2027 (expected)
 
 Work experience
 ======

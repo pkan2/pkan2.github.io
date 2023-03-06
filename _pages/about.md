@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -14,6 +14,6 @@ My main research interests focus on deep learning and computer vision. I care ab
 
 Previously, I received my BS in Computer Science, Mathematics, and Economics, with a minor in Physics, from the University of Wisconsin - Madison, where I was advised by [Professor Vikas Singh](https://www.biostat.wisc.edu/~vsingh/).
 
---
+---
 
 Recent News
