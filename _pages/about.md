@@ -16,9 +16,9 @@ Previously, I received my BS in Computer Science, Mathematics, and Economics, wi
 
 
 
-Recent News
+<!----Recent News
 ==========
-
+---->
 
 
 Publications
@@ -40,7 +40,7 @@ Publications
 
 - [Application of Image Segmentation in Surface Water Extraction of Freshwater Lakes using Radar Data](https://www.mdpi.com/2220-9964/9/7/424)
 
-  Sulong Zhou, Pengyu Kan, Janet Silbernagel, Jiefeng Jin. <i>ISPRS Int. J. Geo-Inf. <i> 2020, 9, 424.
+  Sulong Zhou, **Pengyu Kan**, Janet Silbernagel, Jiefeng Jin. <i>ISPRS Int. J. Geo-Inf. <i> 2020, 9, 424.
 
 
 
