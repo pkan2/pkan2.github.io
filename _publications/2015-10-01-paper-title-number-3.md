@@ -2,10 +2,8 @@
 title: "Towards Diffeomorphism Invariant Convolution Neural Networks"
 collection: publications
 permalink: /publication/2021-diffeomorphism_invariant_cnn_DiffCVML-6
-excerpt: 
-date: 2021-03-01
 venue: 'Differential Geometry in Computer Vision and Machine Learning workshop'
-paperurl: 'https://diffcvml.org/2021/program/'
+
 
 ---
 <!---This paper is about the number 3. The number 4 is left for future work.--->
