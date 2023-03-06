@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Steven Kan"
+title                    : "Steven (Pengyu) Kan"
 title_separator          : "-"
 name                     : &name "Steven (Pengyu) Kan"
-description              : &description "Ph.D. student at Johns Hopkins University"
+description              : &description "Ph.D. student at the Johns Hopkins University"
 url                      : https://pkan2.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pkan2/pkan2.github.io"
