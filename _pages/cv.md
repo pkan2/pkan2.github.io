@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "[CV](http://pkan2.github.io/files/CV_Pengyu_Kan.pdf)"
 permalink: /cv/
 author_profile: true
 redirect_from:
