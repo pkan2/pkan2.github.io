@@ -23,6 +23,9 @@ Previously, I received my BS in Computer Science, Mathematics, and Economics, wi
 
 Publications
 =========
+- [TransMAD: Transformer-based Masked Adversarial Defenses to Patch Attacks](http://pkan2.github.io/files/TransMAD_PatchAttacks_preprint.pdf)
+
+  **Pengyu Kan**$^*$, Laura Alexandra Daza$^*$, Pablo Arbelaez, René Vidal.<i> Preprint, 2023.
 
 - [Towards Diffeomorphism Invariant Convolution Neural Networks](http://pkan2.github.io/files/diffeomorphism_invariant_cnn_DiffCVML-6.pdf)
 
