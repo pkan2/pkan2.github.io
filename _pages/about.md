@@ -32,11 +32,11 @@ Publications
 =========
 - [OpenMAP-BrainAge: Generalizable and Interpretable Brain Age Predictor](https://arxiv.org/abs/2506.17597)
 
-  **Pengyu Kan**, Craig Jones, Kenichi Oishi.<i> Preprint, 2025.
+  **Pengyu Kan**, Craig Jones, Kenichi Oishi.<i> Preprint <i>, 2025.
   
 - [TransMAD: Transformer-based Masked Adversarial Defenses to Patch Attacks](http://pkan2.github.io/files/TransMAD_PatchAttacks_preprint.pdf)
 
-  **Pengyu Kan** $^\star$, Laura Alexandra Daza $^\star$, Pablo Arbelaez, René Vidal.<i> Preprint, 2023.
+  **Pengyu Kan** $^\star$, Laura Alexandra Daza $^\star$, Pablo Arbelaez, René Vidal.<i> Preprint <i>, 2023.
 
 - [Towards Diffeomorphism Invariant Convolution Neural Networks](http://pkan2.github.io/files/diffeomorphism_invariant_cnn_DiffCVML-6.pdf)
 
