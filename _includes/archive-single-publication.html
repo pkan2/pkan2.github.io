@@ -1,0 +1,61 @@
+{% include base_path %}
+
+{% assign teaser = "" %}
+{% if post.paper_image %}
+  {% assign teaser = post.paper_image %}
+{% elsif post.header.teaser %}
+  {% assign teaser = post.header.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<li class="publication-list__item">
+  <article class="publication-card" itemscope itemtype="http://schema.org/ScholarlyArticle">
+    {% if teaser %}
+      <div class="publication-card__thumb">
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink" tabindex="-1" aria-hidden="true">
+          <img
+            src="{% if teaser contains '://' %}{{ teaser }}{% else %}{{ teaser | prepend: '/images/' | prepend: base_path }}{% endif %}"
+            alt="{{ post.title | strip_html | xml_escape }}"
+            loading="lazy"
+            itemprop="image">
+        </a>
+      </div>
+    {% endif %}
+
+    <div class="publication-card__body">
+      <h2 class="publication-card__title" itemprop="headline">
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+      </h2>
+
+      {% if post.authors %}
+        <p class="publication-card__authors" itemprop="author">{{ post.authors }}</p>
+      {% endif %}
+
+      {% if post.venue and post.date %}
+        <p class="publication-card__venue">
+          <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}
+        </p>
+      {% endif %}
+
+      {% if post.excerpt %}
+        <p class="publication-card__excerpt" itemprop="description">{{ post.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+      {% endif %}
+
+      {% if post.paperurl or post.codeurl %}
+        <p class="publication-card__links">
+          {% if post.paperurl %}
+            <a href="{{ post.paperurl }}" target="_blank" rel="noopener noreferrer" itemprop="url">Paper</a>
+          {% endif %}
+          {% if post.codeurl %}
+            <a href="{{ post.codeurl }}" target="_blank" rel="noopener noreferrer">Code</a>
+          {% endif %}
+        </p>
+      {% endif %}
+    </div>
+  </article>
+</li>
