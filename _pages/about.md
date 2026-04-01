@@ -20,42 +20,24 @@ Previously, I received my BS in Computer Science, Mathematics, and Economics, wi
 
 Recent News
 ==========
-- I will present our work *"Multiview Transformer for Brain Age Prediction"* at [ANA 2025 conference](https://2025.myana.org/cg_speakers/pengyu-kan/) as an **Emerging Scholar** (Sep, 2025).
+- Our work *"Clinically Interpretable Transformer Model Reveals Neurodevelopmental Delay in Preterm and NICU Infants Using Diffusion MRI"* (Yifan Shuai<sup>*</sup>, <strong>Pengyu Kan</strong><sup>*</sup>, Kenichi Oishi) was accepted to the [**2026 ISMRM & ISMRT Annual Meeting & Exhibition**](https://www.ismrm.org/26m/) (Cape Town, South Africa, May 9–14, 2026). <sup>*</sup>Equal contribution.
 
-- Our work *"Multiview Transformer for Brain Age Prediction"* was accepted and selected as an **Abstract of Distinction** at ANA2025 and I received a **Travel Award** (Sep, 2025).
+- At the **150th Annual Meeting of the American Neurological Association** (ANA 2025, Baltimore, Sep 2025), our work *"Multiview Transformer for Brain Age Prediction"* received a **Poster Award**, was selected for an **oral presentation** (one of five talks chosen from hundreds of abstracts), and was named an **Abstract of Distinction**; I also received a **Travel Award** and presented as an **Emerging Scholar** ([speaker profile](https://2025.myana.org/cg_speakers/pengyu-kan/)). The Johns Hopkins Computer Science department [featured these recognitions](https://www.cs.jhu.edu/news/cs-phd-student-receives-distinctions-at-ana-2025/).
 
-- I gave a guest lecture on *"Introduction to Transformer in Computer Vision"* for Fall 2023 Computer Vision course at Johns Hopkins University (Nov, 2023).
+- I gave a guest lecture titled *"Introduction to Transformer in Computer Vision"* for the Fall 2023 Computer Vision course at Johns Hopkins University (Nov 2023).
 
 
 
 Publications
 =========
-- [OpenMAP-BrainAge: Generalizable and Interpretable Brain Age Predictor](https://arxiv.org/abs/2506.17597)
 
-  **Pengyu Kan**, Craig Jones, Kenichi Oishi.<i> Preprint <i>, 2025.
-  
-- [TransMAD: Transformer-based Masked Adversarial Defenses to Patch Attacks](http://pkan2.github.io/files/TransMAD_PatchAttacks_preprint.pdf)
+{% include base_path %}
 
-  **Pengyu Kan** $^\star$, Laura Alexandra Daza $^\star$, Pablo Arbelaez, René Vidal.<i> Preprint <i>, 2023.
-
-- [Towards Diffeomorphism Invariant Convolution Neural Networks](http://pkan2.github.io/files/diffeomorphism_invariant_cnn_DiffCVML-6.pdf)
-
-  **Pengyu Kan**, Rudrasis Chakraborty, Vishnu Suresh Lokhande, Vikas Singh.<i> Differential Geometry in Computer Vision and Machine Learning workshop. <i> 2021.
-
-
-- [A Guided Latent Dirichlet Allocation Approach to Investigate Real-time Latent Topics of Twitter Data during Hurricane Laura](https://journals.sagepub.com/doi/10.1177/01655515211007724)
-
-  Sulong Zhou, **Pengyu Kan**, Qunying Huang, Janet Silbernagel. <i> Journal of Information Science. <i> 2021.
-
-- [Exploring Adversarial Robustness of Deep Metric Learning](https://arxiv.org/abs/2102.07265)
-
-   Thomas Kobber Panum, Zi Wang, **Pengyu Kan**, Earlence Fernandes, and Somesh Jha. <i>arXiv preprint arXiv:2102.07265. <i> 2021.
-
-
-- [Application of Image Segmentation in Surface Water Extraction of Freshwater Lakes using Radar Data](https://www.mdpi.com/2220-9964/9/7/424)
-
-  Sulong Zhou, **Pengyu Kan**, Janet Silbernagel, Jiefeng Jin. <i>ISPRS Int. J. Geo-Inf. <i> 2020, 9, 424.
-
+<ul class="publication-list">
+{% for post in site.publications reversed %}
+  {% include archive-single-publication.html %}
+{% endfor %}
+</ul>
 
 Teachings
 =========
