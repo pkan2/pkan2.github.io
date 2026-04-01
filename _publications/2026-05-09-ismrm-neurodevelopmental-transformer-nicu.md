@@ -8,5 +8,7 @@ authors: "Yifan Shuai*, <strong>Pengyu Kan</strong>*, Kenichi Oishi"
 date: 2026-05-09
 venue: "Accepted, ISMRM"
 abstract: |
-  Preterm birth and NICU care are associated with altered neurodevelopment, yet summarizing neurodevelopmental outcomes from neonatal MRI remains challenging. We propose a **clinically interpretable transformer** model trained on diffusion MRI (dMRI) features to predict biological brain age and identify patterns associated with neurodevelopmental delay in preterm and NICU cohorts. The model uses attention mechanisms and attribution-style analysis to highlight regions and pathways most relevant to predictions, supporting clinical interpretability. We report validation on neonatal dMRI data and discuss implications for early risk stratification and longitudinal follow-up. **This work has been accepted for presentation at ISMRM 2026; final proceedings text may differ.**
+  Brain age estimation from infant MRI provides a quantitative marker of neurodevelopmental maturity that supports early risk stratification, prognosis, and therapy monitoring in preterm and NICU-treated infants. However, existing MRI-based models, ranging from feature-based regressors to CNNs and connectome approaches, remain limited by domain shift, modest accuracy, and unstable explainability1. A recent transformer combining T2-weighted MRI and DTI achieved high accuracy2, yet its clinical significance in vulnerable populations remains uncertain. We address these gaps using a multi-view transformer applied to DTI, integrating attention-based interpretability and a query-based, fast-processing approach.
+  
+  **This work has been accepted for presentation at ISMRM 2026; final proceedings text may differ.**
 ---
