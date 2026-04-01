@@ -52,9 +52,10 @@ layout: default
           {% elsif page.date %}
             <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
           {% endif %}
-          {% if page.paperurl or page.codeurl %}
+          {% if page.paperurl or page.codeurl or page.newsurl %}
             <p class="publication-page__links">
               {% if page.paperurl %}<a href="{{ page.paperurl }}" class="btn btn--primary" target="_blank" rel="noopener noreferrer">Paper</a>{% endif %}
+              {% if page.newsurl %}<a href="{{ page.newsurl }}" class="btn btn--primary" target="_blank" rel="noopener noreferrer">News</a>{% endif %}
               {% if page.codeurl %}<a href="{{ page.codeurl }}" class="btn btn--primary" target="_blank" rel="noopener noreferrer">Code</a>{% endif %}
             </p>
           {% endif %}

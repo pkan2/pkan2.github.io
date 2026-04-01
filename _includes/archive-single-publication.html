@@ -46,10 +46,13 @@
         <p class="publication-card__excerpt" itemprop="description">{{ post.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>
       {% endif %}
 
-      {% if post.paperurl or post.codeurl %}
+      {% if post.paperurl or post.codeurl or post.newsurl %}
         <p class="publication-card__links">
           {% if post.paperurl %}
             <a href="{{ post.paperurl }}" target="_blank" rel="noopener noreferrer" itemprop="url">Paper</a>
+          {% endif %}
+          {% if post.newsurl %}
+            <a href="{{ post.newsurl }}" target="_blank" rel="noopener noreferrer">News</a>
           {% endif %}
           {% if post.codeurl %}
             <a href="{{ post.codeurl }}" target="_blank" rel="noopener noreferrer">Code</a>
