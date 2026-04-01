@@ -10,7 +10,7 @@ redirect_from:
 
 I am a fifth-year Ph.D. student in Computer Science at Johns Hopkins University, fortunately advised by [Professor Kenichi Oishi](http://www.open-map.org/#member) and [Professor Craig Jones](https://imagingai.org/). Previously, I had the opportunity to collaborate with [Professor René Vidal](http://vision.jhu.edu/rvidal.html). 
 
-My research lies at the intersection of deep learning and medical imaging, with a focus on brain MRI analysis. Specifically, I work on transformer-based models for brain age estimation and diffusion-based approaches for neonatal lesion inpainting. More broadly, my interests span multimodal representation learning, clinically informed model design, and improving the generalizability of medical imaging models.
+My research lies at the intersection of deep learning and medical imaging, with a focus on brain MRI analysis. Specifically, I work on transformer-based models for brain age estimation and diffusion-based approaches for unsupervised neonatal lesion detection and inpainting. More broadly, my interests span multimodal representation learning, clinically informed model design, and improving the generalizability of medical imaging models.
 
 My long-term research vision is to advance methods for multimodal information representation through the Vision-Language models and foundation models, and to leverage deep learning to bridge AI and clinical practice, with the goal of deepening our knowledge of brain cognition, neurodevelopment, and neurodegeneration.
 

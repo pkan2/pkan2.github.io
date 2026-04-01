@@ -128,3 +128,28 @@
     max-width: 280px;
   }
 }
+
+/* Full abstract on publication detail pages */
+.publication-abstract {
+  margin-bottom: 1.75rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid $border-color;
+}
+
+.publication-abstract__title {
+  margin: 0 0 0.75rem 0;
+  font-size: $type-size-3;
+}
+
+.publication-abstract__body {
+  font-size: $type-size-5;
+  line-height: 1.65;
+
+  p {
+    margin: 0 0 0.85em 0;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+}

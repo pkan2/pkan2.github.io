@@ -8,4 +8,6 @@ authors: "Sulong Zhou, <strong>Pengyu Kan</strong>, Janet Silbernagel, Jiefeng J
 date: 2020-07-01
 venue: "ISPRS International Journal of Geo-Information"
 paperurl: "https://www.mdpi.com/2220-9964/9/7/424"
+abstract: |
+  Surface water mapping in freshwater lakes is important for hydrology, ecology, and resource management. We use **synthetic aperture radar (SAR)** imagery with a deep learning–based image segmentation pipeline to extract surface water extent while mitigating typical challenges of optical data (e.g., cloud cover). We describe the segmentation architecture, training procedure, and evaluation on lake regions of interest. Results indicate that segmentation-based radar analysis can provide reliable water–body delineation for monitoring applications in freshwater environments.
 ---
