@@ -3,7 +3,7 @@ title: "Clinically Interpretable Transformer Model Reveals Neurodevelopmental De
 collection: publications
 permalink: /publication/ismrm2026-neurodevelopmental-transformer-nicu-dwi
 paper_image: publications/neonatal_brain_age_prediction.png
-excerpt: "A clinically interpretable transformer applied to diffusion MRI that surfaces patterns associated with neurodevelopmental delay in preterm and NICU cohorts."
+excerpt: "A clinically interpretable transformer applied to diffusion MRI to predict biological brain age of neonates and discover associations between neurodevelopmental delay to preterm and NICU conditions."
 authors: "Yifan Shuai*, <strong>Pengyu Kan</strong>*, Kenichi Oishi"
 date: 2026-05-09
 venue: "Accepted, ISMRM"
