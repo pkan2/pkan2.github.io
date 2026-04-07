@@ -8,7 +8,7 @@ authors: "Yifan Shuai*, <strong>Pengyu Kan</strong>*, Kenichi Oishi"
 date: 2026-05-09
 venue: "Accepted, ISMRM"
 abstract: |
-  Brain age estimation from infant MRI provides a quantitative marker of neurodevelopmental maturity that supports early risk stratification, prognosis, and therapy monitoring in preterm and NICU-treated infants. However, existing MRI-based models, ranging from feature-based regressors to CNNs and connectome approaches, remain limited by domain shift, modest accuracy, and unstable explainability1. A recent transformer combining T2-weighted MRI and DTI achieved high accuracy2, yet its clinical significance in vulnerable populations remains uncertain. We address these gaps using a multi-view transformer applied to DTI, integrating attention-based interpretability and a query-based, fast-processing approach.
+  Brain age estimation from infant MRI provides a quantitative marker of neurodevelopmental maturity that supports early risk stratification, prognosis, and therapy monitoring in preterm and NICU-treated infants. However, existing MRI-based models, ranging from feature-based regressors to CNNs and connectome approaches, remain limited by domain shift, modest accuracy, and unstable explainability. A recent transformer combining T2-weighted MRI and DTI achieved high accuracy, yet its clinical significance in vulnerable populations remains uncertain. We address these gaps using a multi-view transformer applied to DTI, integrating attention-based interpretability and a query-based, fast-processing approach.
   
   **This work has been accepted for presentation at ISMRM 2026; final proceedings text may differ.**
 ---
