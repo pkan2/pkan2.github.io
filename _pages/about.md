@@ -20,6 +20,8 @@ Previously, I received my BS in Computer Science, Mathematics, and Economics, wi
 
 Recent News
 ==========
+- Our manuscript *"OpenMAP-BrainAge: Generalizable and Interpretable Brain Age Predictor from MRI"* was accepted to [*Radiology Advances*](https://pubs.rsna.org/journal/ra).
+
 - Our work *"Clinically Interpretable Transformer Model Reveals Neurodevelopmental Delay in Preterm and NICU Infants Using Diffusion MRI"* was accepted to the [**2026 ISMRM & ISMRT Annual Meeting & Exhibition**](https://www.ismrm.org/26m/) (Cape Town, South Africa, May 9–14, 2026).
 
 - At the **150th Annual Meeting of the American Neurological Association** (ANA 2025, Baltimore, Sep 2025), our work *"Multiview Transformer for Brain Age Prediction"* received a **Poster Award**, was selected for an **oral presentation** (one of five talks chosen from hundreds of abstracts), and was named an **Abstract of Distinction**; I also received a **Travel Award** and presented as an **Emerging Scholar** ([speaker profile](https://2025.myana.org/cg_speakers/pengyu-kan/)). The Johns Hopkins Computer Science department [featured these recognitions](https://www.cs.jhu.edu/news/cs-phd-student-receives-distinctions-at-ana-2025/).
