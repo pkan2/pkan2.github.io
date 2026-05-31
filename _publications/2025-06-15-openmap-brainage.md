@@ -9,6 +9,7 @@ date: 2025-06-15
 venue: "Radiology Advances"
 paperurl: "https://arxiv.org/abs/2506.17597"
 newsurl: "https://www.cs.jhu.edu/news/cs-phd-student-receives-distinctions-at-ana-2025/"
+codeurl: "https://github.com/OishiLab/OpenMAP-BrainAge"
 abstract: |
  **Background**: Accurately estimating brain age can help identify deviations linked to neurodegenerative diseases. Although prior models exhibit some generalization and explainability, their robustness across heterogeneous cohorts and acquisition protocols remains limited, underscoring the need for enhanced clinical readiness.
  
