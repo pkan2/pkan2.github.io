@@ -20,6 +20,8 @@ Previously, I received my BS in Computer Science, Mathematics, and Economics, wi
 
 Recent News
 ==========
+- Our preprint *"OpenMAP-HIE: Pathology Informed Score-based Diffusion Model for Unsupervised Neonatal Hypoxic-Ischemic Encephalopathy Lesion Segmentation"* is available ([preprint](https://pkan2.github.io/files/Unsupervised_Diffusion_HIE_Detection.pdf)).
+
 - Our manuscript *"OpenMAP-BrainAge: Generalizable and Interpretable Brain Age Predictor from MRI"* was accepted to [*Radiology Advances*](https://academic.oup.com/radadv).
 
 - Our work *"Clinically Interpretable Transformer Model Reveals Neurodevelopmental Delay in Preterm and NICU Infants Using Diffusion MRI"* was accepted to the [**2026 ISMRM & ISMRT Annual Meeting & Exhibition**](https://www.ismrm.org/26m/) (Cape Town, South Africa, May 9–14, 2026).
