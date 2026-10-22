@@ -20,7 +20,7 @@ Previously, I received my BS in Computer Science, Mathematics, and Economics, wi
 
 Recent News
 ==========
-- Our preprint *"OpenMAP-HIE: Pathology Informed Score-based Diffusion Model for Unsupervised Neonatal Hypoxic-Ischemic Encephalopathy Lesion Segmentation"* is available ([preprint](https://pkan2.github.io/files/Unsupervised_Diffusion_HIE_Detection.pdf)).
+- Our preprint *"OpenMAP-HIE: Pathology Informed Score-based Diffusion Model for Unsupervised Neonatal Hypoxic-Ischemic Encephalopathy Lesion Segmentation"* is available ([preprint](https://arxiv.org/pdf/2610.29322), [code](https://github.com/OishiLab/OpenMAP-HIE)).
 
 - Our manuscript *"OpenMAP-BrainAge: Generalizable and Interpretable Brain Age Predictor from MRI"* was accepted to [*Radiology Advances*](https://academic.oup.com/radadv).
 
